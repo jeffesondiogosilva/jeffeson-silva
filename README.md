@@ -1,6 +1,6 @@
 ### Hi, Devs! 👋
 
-<!--
+
 **jeffeson-silva/jeffeson-silva** é um repositório ✨ _especial_ ✨ porque meu `README.md` (este arquivo) aparece no meu perfil do GitHub.
 
 
@@ -11,4 +11,4 @@
 - 💬 Pergunte-me sobre PHP e MYSQL
 - 📫 Como me achar: no Instagram: @jeffdiogo e na Comunidade Code
 - ⚡ Frase motivadora: "Uma grande caminhada começa com o primeiro passo"
--->
+
