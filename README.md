@@ -1,7 +1,6 @@
 ### Hi, Devs! 👋
 
-
-**jeffeson-silva/jeffeson-silva** é um repositório ✨ _especial_ ✨ porque meu `README.md` (este arquivo) aparece no meu perfil do GitHub.
+✨**Eu sou o Jeff**😉
 
 
 - 🔭 Atualmente sou estudante de Desenvolvimento de Sistemas com foco no Backend
